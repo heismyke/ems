@@ -1,2 +1,2 @@
-# ems
+# employee management system
 Java swing application.
